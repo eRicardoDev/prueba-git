@@ -1,0 +1,98 @@
+commit f7213a0bc3a6523c0d32592add930bee3465aa64
+Author: Ricardo Villar <ericardo.vm@gmail.com>
+Date:   Sat Aug 27 22:26:06 2022 -0500
+
+    Agregando 2 párrafos
+
+commit ea1401f08d68dbd2eaad618ddad8392487dc272d
+Merge: 70a69d5 abda476
+Author: Ricardo Villar <ericardo.vm@gmail.com>
+Date:   Sat Aug 27 22:22:39 2022 -0500
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 70a69d523da4acaeabb857756baad0804718feec
+Author: Ricardo Villar <ericardo.vm@gmail.com>
+Date:   Sat Aug 27 21:57:01 2022 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit abda4760102e79cf15d5c8d17924bfe03970f1bf
+Author: Ricardo Villar <ericardo.vm@gmail.com>
+Date:   Sat Aug 27 21:57:01 2022 -0500
+
+    Agregando las estaciones del año
+
+commit d1449d82e73f23a0c90657e15b91b65abe31fc7e
+Merge: 753e12c 250d077
+Author: Ricardo Villar <ericardo.vm@gmail.com>
+Date:   Sat Aug 27 21:47:21 2022 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 250d07783122dc6594e2e6ad32717108688abb25
+Author: Ricardo Villar <ericardo.vm@gmail.com>
+Date:   Sat Aug 27 21:37:21 2022 -0500
+
+    Agregando index.js al index.html
+
+commit 753e12c4a548d7dd7fc748aba54b2c87728b6001
+Author: Ricardo Villar <ericardo.vm@gmail.com>
+Date:   Sat Aug 27 21:31:29 2022 -0500
+
+    Agregando style.css al index.html
+
+commit e53185997da451114d9f6605c1048c98ec3ea476
+Merge: bbdbf29 9dca5e7
+Author: Ricardo Villar <ericardo.vm@gmail.com>
+Date:   Sat Aug 27 21:11:31 2022 -0500
+
+    Merge branch 'rama-js'
+
+commit 9dca5e707e69c0a0e541cd5685de4ed94e1c61c2
+Author: Ricardo Villar <ericardo.vm@gmail.com>
+Date:   Sat Aug 27 20:54:28 2022 -0500
+
+    Creando index.js
+
+commit bbdbf29a0ac074945d40f29b15dbff7e61abd1d6
+Author: Ricardo Villar <ericardo.vm@gmail.com>
+Date:   Sat Aug 27 20:43:20 2022 -0500
+
+    Creando style.css
+
+commit 7e1f503dda527cf4e7b53d2cf8face85afe085a9
+Author: Ricardo Villar <ericardo.vm@gmail.com>
+Date:   Sat Aug 27 20:32:57 2022 -0500
+
+    Creando index.html
+
+commit e2822747f95a079f812b119dded1ea524b2653bc
+Author: Ricardo Villar <ericardo.vm@gmail.com>
+Date:   Sat Aug 27 20:19:00 2022 -0500
+
+    commit ignorando .exe
+
+commit 7d2a7309f4d81aa629817cddb8d402be402cfbe6
+Author: eRicardoDev <112222790+eRicardoDev@users.noreply.github.com>
+Date:   Sat Aug 27 19:09:35 2022 -0500
+
+    commit license desde GitHub
+
+commit ad4a98bf78601945fd33da5bae9d0cf662dd0966
+Author: Ricardo Villar <ericardo.vm@gmail.com>
+Date:   Sat Aug 27 18:58:37 2022 -0500
+
+    third commit
+
+commit 4ab4432c7a99c080ccae4c36131b82cbbaf91849
+Author: Ricardo Villar <ericardo.vm@gmail.com>
+Date:   Sat Aug 27 18:32:43 2022 -0500
+
+    Agregando contenido inicial al README
+
+commit a317cdce0081fee53bdf71716916529df0442b84
+Author: Ricardo Villar <ericardo.vm@gmail.com>
+Date:   Sat Aug 27 18:27:34 2022 -0500
+
+    first commit

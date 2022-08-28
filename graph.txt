@@ -1,0 +1,23 @@
+* f7213a0 Agregando 2 párrafos
+*   ea1401f Resolviendo conflicto en estaciones del año y fechas de inicio
+|\  
+| * abda476 Agregando las estaciones del año
+* | 70a69d5 Agregando estaciones del año con fecha de inicio
+|/  
+*   d1449d8 Resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * 250d077 Agregando index.js al index.html
+* | 753e12c Agregando style.css al index.html
+* |   e531859 Merge branch 'rama-js'
+|\ \  
+| * | 9dca5e7 Creando index.js
+* | | bbdbf29 Creando style.css
+| |/  
+|/|   
+* | 7e1f503 Creando index.html
+|/  
+* e282274 commit ignorando .exe
+* 7d2a730 commit license desde GitHub
+* ad4a98b third commit
+* 4ab4432 Agregando contenido inicial al README
+* a317cdc first commit
